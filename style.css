@@ -1,0 +1,41 @@
+body {
+    background-color: #D5E1EF;
+    font-family: Outfit, sans-serif;
+}
+
+p {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+h1 {
+  font-family: Outfit, sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+}
+
+.qrcode {
+    background-color: white;
+    width: 100%;
+    max-width: 320px;
+    height: 499px;
+    max-height: 499px;
+    padding: 16px 16px 40px 16px;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    margin-top: 50px;
+    text-align: center;
+    gap: 24px;
+}
+
+.code-box {
+    background-color: blue;
+    height: 320px;
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    margin-top: 12px;
+}
